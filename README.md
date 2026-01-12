@@ -26,7 +26,7 @@
 > At the same time, we will place the offline trained model parameters `scaler_params_final. py` and `semi_Supervised_HMASCRAE.final. py`  in the `save_model.py` file for you to quickly reproduce the results in the paper in `HMASCRAE.online. py` without the need for retraining. 
 ><img width="529" height="577" alt="HMASCRAE" src="https://github.com/user-attachments/assets/5301c609-1784-42d7-a95a-f78177b382e5" />
 
-> ## ![HMASCRAE](C:\Users\10158\Desktop\HMASCRAE.png)
+> ## ![HMASCRAE]
 >
 > ## 👜Data
 >
