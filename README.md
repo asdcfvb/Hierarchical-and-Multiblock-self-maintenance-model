@@ -6,7 +6,7 @@
 >
 > ## 📝Papers
 >
-> > We list the papers according to the basic framework of the method, which can be roughly divided into **Offline phase**, **Online phase** and **Saved model parameters**
+> > We list the papers according to the basic framework of the method, which can be roughly divided into **Offline phase**, **Online phase** 
 >
 > ### Survey
 >
