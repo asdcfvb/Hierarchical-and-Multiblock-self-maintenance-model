@@ -17,7 +17,7 @@
 >  - 🔧Code
 >
 >
-> > Our code is released at [[**Code link**]](https://github.com/sumyinho/Novel-Models-for-Fault-Diagnosis/tree/master)
+> > Our code is released at [[**Code link**]]((https://github.com/asdcfvb/-Hierarchical-and-Multiblock-self-maintenance-model/tree/main)
 >
 > You can check the structure framework by looking at `model.py` .
 >
