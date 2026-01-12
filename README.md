@@ -24,7 +24,8 @@
 > If you want to see the details and settings of the code running, you can try to reproduce it by running `HMASCRAE_phase.py` in the `experiment` file.
 >
 > At the same time, we will place the offline trained model parameters `scaler_params_final. py` and `semi_Supervised_HMASCRAE.final. py`  in the `save_model.py` file for you to quickly reproduce the results in the paper in `HMASCRAE.online. py` without the need for retraining. 
->
+>![Uploading HMASCRAE.png…]()
+
 >
 > ## 👜Data
 >
