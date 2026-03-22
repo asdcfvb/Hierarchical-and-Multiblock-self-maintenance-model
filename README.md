@@ -12,7 +12,7 @@
 >
 > ***
 >
->  - Adaptive assessment of operating performance for multiprocess industrial process based on hierarchical and multiblock self-maintenance model (At present, the paper has been accepted by the journal "Applied Intelligence" and will be made public immediately after publication)
+>  - Adaptive assessment of operating performance for multiprocess industrial process based on hierarchical and multiblock self-maintenance model ([[**Code link**]](https://link.springer.com/article/10.1007/s10489-026-07172-7#Abs1))
 >
 >  - 🔧Code
 >
